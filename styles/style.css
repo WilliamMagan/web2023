@@ -23,6 +23,7 @@ header {
 header h1 {
     height: 50px;
     justify-items: center;
+    text-align: center;
     /*margin-left: 50px; */
 }
 
