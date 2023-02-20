@@ -23,7 +23,7 @@ header {
 header h1 {
     height: 50px;
     justify-items: center;
-    margin-left: 50px;
+    /*margin-left: 50px; */
 }
 
 header a {
