@@ -50,14 +50,14 @@ nav ul {
 
 nav ul li {
     background-color: #7da0ce;
-    color: #ffffff;
+    color: #000000;
     border: 1px solid #7da0ce;
     padding: 1rem 4rem 1rem 4rem;
 }
 
 nav ul li a {
     background-color: #7da0ce;
-    color: #fff;
+    color: #6b6b6b;
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: none;
@@ -65,7 +65,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #7da0ce;
-    color: #c1c1c1;
+    color: #000000;
     font-weight: bold;
 }
 
@@ -79,13 +79,13 @@ nav ul li:nth-child(2) {
 
 nav ul li:nth-child(2) a {
     background-color:   #7da0ce;
-    color: #fefefe;
+    color: #000000;
     text-decoration: none;
 }
 
 nav ul li:nth-child(2) a:hover {
-    background-color: #e06e6e;
-    color: #fff;
+    background-color: #7da0ce;
+    color: #000000;
     text-decoration: none;
 }
 
