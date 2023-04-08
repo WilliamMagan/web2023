@@ -73,7 +73,7 @@ nav ul li:nth-child(2) {
     background-color: #7da0ce;
     color: #000;
     border: 1px solid #7da0ce;
-    font-weight: bold;
+    /*font-weight: bold; */
     text-decoration: none;
 }
 
